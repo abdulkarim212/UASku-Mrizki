@@ -11,7 +11,7 @@
             android:layout_width="match_parent"
             android:layout_height="350dp">
         <LinearLayout
-                android:background="#4CAF50"
+                android:background="#fff"
                 android:layout_width="match_parent"
                 android:layout_height="300dp"
                 android:orientation="vertical">
@@ -26,7 +26,7 @@
                     android:layout_gravity="center_horizontal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Ali Akbar"
+                    android:text="Muhammad Rizki"
                     android:textColor="#fff"
                     android:textStyle="bold"
                     android:textSize="21sp"/>
@@ -129,7 +129,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:paddingLeft="20dp"
-                    android:text="ali.thegame40@gmail.com"/>
+                    android:text="mrizki97@mahasiswa.unikomm.ac.id"/>
         </LinearLayout>
         <LinearLayout
                 android:layout_marginTop="10dp"
@@ -148,7 +148,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:paddingLeft="20dp"
-                    android:text="+62 858 6082 4485"/>
+                    android:text="087708454945"/>
         </LinearLayout>
         <LinearLayout
                 android:layout_marginTop="10dp"

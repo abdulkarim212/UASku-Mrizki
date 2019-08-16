@@ -5,7 +5,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#b4d2d2d2"
+        android:background="#00FFFF"
         tools:context=".MainActivity">
 
     <View
@@ -60,17 +60,8 @@
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center_horizontal"
                                 android:layout_marginTop="60dp"
-                                android:text="Ali Akbar"
+                                android:text="Muhammad Rizki"
                                 android:textSize="25sp"
-                                android:textStyle="bold" />
-
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_gravity="start"
-                                android:layout_marginTop="10dp"
-                                android:text="Deskripsi Diri :"
-                                android:textSize="17sp"
                                 android:textStyle="bold" />
 
                             <TextView
@@ -78,8 +69,8 @@
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center_horizontal"
                                 android:layout_marginTop="10dp"
-                                android:text="Halo, Saya Ali Akbar Aulia Husain, Saya lahir di Bandung 21 Oktober 1997, Hobi saya adalah travelling, dan bermain game."
-                                android:textAlignment="center"
+                                android:text="Saya Muhammad Rizki, Saya lahir di Purwakarta 15 Desember 1997, Saya kuliah di Universitas Komputer Indonesia."
+                            android:textAlignment="center"
                                 android:textSize="15sp"
                                 android:textStyle="italic" />
 
@@ -88,17 +79,8 @@
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center_horizontal"
                                 android:layout_marginTop="10dp"
-                                android:text="Bandung, Indonesia"
+                                android:text="Identitas Diri"
                                 android:textSize="18sp"
-                                android:textStyle="bold" />
-
-                            <TextView
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_gravity="center_horizontal"
-                                android:layout_marginTop="10dp"
-                                android:text="Indetitas Diri"
-                                android:textSize="15sp"
                                 android:textStyle="bold" />
 
                             <LinearLayout
@@ -123,7 +105,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="start"
                                     android:layout_marginTop="10dp"
-                                    android:text="10116175"
+                                    android:text="10116162"
                                     android:textSize="15sp"
                                     android:textStyle="bold" />
                             </LinearLayout>
@@ -150,7 +132,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="start"
                                     android:layout_marginTop="10dp"
-                                    android:text="Ali Akbar Aulia H "
+                                    android:text="Muhammad Rizki "
                                     android:textSize="15sp"
                                     android:textStyle="bold" />
                             </LinearLayout>
@@ -168,7 +150,7 @@
                                     android:layout_gravity="start"
                                     android:layout_marginTop="10dp"
                                     android:layout_marginRight="10dp"
-                                    android:text="Kelas :"
+                                    android:text=" Kelas :"
                                     android:textSize="15sp"
                                     android:textStyle="bold" />
 
@@ -177,7 +159,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="start"
                                     android:layout_marginTop="10dp"
-                                    android:text="IF - 4"
+                                    android:text="AKB - 4"
                                     android:textSize="15sp"
                                     android:textStyle="bold" />
                             </LinearLayout>

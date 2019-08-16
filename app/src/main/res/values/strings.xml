@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Biodata</string>
+    <string name="app_name">M rizki</string>
     <string name="hint_username">Username</string>
     <string name="hint_name">Name</string>
     <string name="hint_email">Email</string>
@@ -12,7 +12,7 @@
     <string name="error_message_age">Enter Age</string>
     <string name="error_message_password">Enter Password</string>
     <string name="success_message">Registration Successful</string>
-    <string name="text_not_member">No account yet?
+    <string name="text_not_member">Create an account!
         <b>Create one</b>
     </string>
     <string name="text_already_member">Already a member? Login</string>
@@ -25,8 +25,8 @@
     <string name="logout">Logout</string>
 
     <string name="profile">profile</string>
-    <string name="kontak">kontak</string>
-    <string name="teman">teman</string>
+    <string name="kontak">Contact</string>
+    <string name="teman">Friends</string>
     <string name="textInputLayout">textInputLayout</string>
 
     <!-- TODO: Remove or change this placeholder text -->
@@ -34,18 +34,18 @@
 
     //LINK
     <string name="instagram">
-        <a href="https://www.instagram.com/aliakbarra/">Follow</a>
+        <a href="https://www.instagram.com/mrizki.19/">Follow</a>
     </string>
     <string name="line">
-        <a href="http://line.me/ti/p/~aliakbar.">Add</a>
+        <a href="http://line.me/ti/p/~muhammad_rizki97">Add</a>
     </string>
     <string name="github">
-        <a href="https://github.com/aliakbarra">Follow</a>
+        <a href="https://github.com/rizki97mr">Follow</a>
     </string>
     <string name="facebook">
-        <a href="https://web.facebook.com/aliakbar">Ali Akbar</a>
+        <a href="#">muhammad Rizki</a>
     </string>
     <string name="gmail">
-        <a href="mailto:ali.thegame40@gmail.com">ali.thegame40@gmail.com</a>
+        <a href="mailto:rizki1997mr@gmail.com">rizki1997mr@gmail.com</a>
     </string>
 </resources>

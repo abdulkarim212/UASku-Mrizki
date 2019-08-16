@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.aliakbar.biodata">
+          package="com.example.mrizki.biodata">
 
     <application
             android:allowBackup="true"
@@ -10,18 +10,18 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
         <activity
-                android:name="com.example.aliakbar.biodata.MainActivity"
+                android:name="com.example.mrizki.biodata.MainActivity"
                 android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
         </activity>
         <activity
-                android:name="com.example.aliakbar.biodata.presenter.RegisterActivity"
+                android:name="com.example.mrizki.biodata.presenter.RegisterActivity"
                 android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         </activity>
-        <activity android:name="com.example.aliakbar.biodata.presenter.ForgotPasswordActivity">
+        <activity android:name="com.example.mrizki.biodata.presenter.ForgotPasswordActivity">
         </activity>
-        <activity android:name="com.example.aliakbar.biodata.view.Form">
+        <activity android:name="com.example.mrizki.biodata.view.Form">
         </activity>
-        <activity android:name="com.example.aliakbar.biodata.SplashScreen"
+        <activity android:name="com.example.mrizki.biodata.SplashScreen"
                   android:theme="@style/SplashScreenStyle">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -30,11 +30,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.aliakbar.biodata.presenter.LoginActivity"
+            android:name="com.example.mrizki.biodata.presenter.LoginActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
 
         </activity>
-        <activity android:name="com.example.aliakbar.biodata.view.viewPager.IntroActivity">
+        <activity android:name="com.example.mrizki.biodata.view.viewPager.IntroActivity">
         </activity>
     </application>
 
